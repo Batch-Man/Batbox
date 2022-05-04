@@ -74,6 +74,23 @@ NOTES
      HEXADECIMAL numbers, to do so, just add the prefix 0X. Finally you can 
      specify OCTAL numbers, you just have to add the prefix 0. The OCTAL 
      numbers are not recommended because their use is very restricted.
+     
+## Screenshot
+**Example of displaying a text at desired coordinates and changing consoles color**
+![image](https://user-images.githubusercontent.com/82807654/166758482-1aa8060c-01ce-4f66-8cde-29642ca4d80f.png)
+     
+**Example of getting user input through mouse using left and right click**
+<!-- wp:image {"align":"center","id":3356,"style":{"color":{}}} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://batch-man.com/wp-content/uploads/2022/04/example5-1-edited-2.png" alt="" class="wp-image-3356"/></figure></div>
+<!-- /wp:image -->
+
+**Example of getting user input through keyboard and displaying ASCII value corrosponding to entered character**
+![image](https://user-images.githubusercontent.com/82807654/166781445-f7b99b95-e57a-4349-ae0c-2fb81045e518.png)
+
+**Example of creating a delay in commands**
+<!-- wp:image {"id":3373,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://batch-man.com/wp-content/uploads/2022/04/1.gif" alt="" class="wp-image-3373"/></figure>
+<!-- /wp:image -->
 
 COMPATIBILITY
 
