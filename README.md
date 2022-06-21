@@ -75,7 +75,6 @@ NOTES
      specify OCTAL numbers, you just have to add the prefix 0. The OCTAL 
      numbers are not recommended because their use is very restricted.
      
- For detailed description visit https://batch-man.com/batbox/
 ## Screenshot
 **Example of displaying a text at desired coordinates and changing consoles color**
 ![image](https://user-images.githubusercontent.com/82807654/166758482-1aa8060c-01ce-4f66-8cde-29642ca4d80f.png)
@@ -149,3 +148,7 @@ AUTHOR
 
      BATBOX has been written by DARKBATCHER. The project is no more develloped 
      actually.
+     
+ **Article link** https://batch-man.com/batbox/
+ **Video link** https://www.youtube.com/watch?v=yL8zNujYyMQ
+
