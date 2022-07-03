@@ -149,6 +149,7 @@ AUTHOR
      BATBOX has been written by DARKBATCHER. The project is no more develloped 
      actually.
      
- **Article link** https://batch-man.com/batbox/
- **Video link** https://www.youtube.com/watch?v=yL8zNujYyMQ
+**Article link-** https://batch-man.com/batbox/
+
+**Video link-** https://www.youtube.com/watch?v=yL8zNujYyMQ
 
