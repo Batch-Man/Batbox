@@ -4,7 +4,7 @@
 BatBox is an external command that allows using console graphically. Furthermore, it enables also user interactions such as mouse and keyboard input.
 BatBox is an extremely small program (2 kilobytes) yet powerful and fast utility with with 11 switches.
 
-Author: DarkBatcher
+Author: [DarkBatcher](https://github.com/Darkbatcher)
 
 ## Usage
 `batbox [/d Text] [/g X Y] [/c Color] [/m] [/k[\_]]  [/a Character] [/w Duration] [/f State] [/s File] [/o OffsetX OffsetY] [/h Mode] [/p Mode]`
